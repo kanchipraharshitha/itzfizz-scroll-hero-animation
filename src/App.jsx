@@ -103,7 +103,7 @@ function App() {
 
           <h1
             ref={headingRef}
-            className="text-5xl sm:text-6xl md:text-8xl font-black tracking-[1.2em] uppercase"
+            className="text-5xl sm:text-6xl md:text-8xl font-black tracking-[1.2em] uppercase whitespace-nowrap"
             style={{
               textShadow: '0 0 40px rgba(168, 85, 247, 0.6), 0 0 80px rgba(147, 51, 234, 0.4)',
             }}
