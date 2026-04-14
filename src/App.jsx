@@ -12,7 +12,7 @@ function App() {
   const carRef = useRef(null);
   const statsRef = useRef(null);
 
-  const letters = 'WELCOME ITZ FIZZ'.split('');
+  const letters = 'PRAHARSHITHA'.split('');
 
   // Initial load animation - stagger fade in for letters
   useEffect(() => {
